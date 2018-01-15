@@ -4,8 +4,6 @@ output:
   html_document:
     keep_md: true
 ---
-## Set Global Options
-opts_chunk$set(echo = TRUE)
 
 ## Loading Required Libraries
 
@@ -14,6 +12,7 @@ library(ggplot2)
 library(lubridate)
 library(dplyr)
 ```
+
 
 ## Loading the data
 
